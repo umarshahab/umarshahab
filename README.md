@@ -50,13 +50,13 @@ Technologies and tools I work with and explore:
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,kotlin,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,kotlin,html,css,php,c#" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,php" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend Development & Database
