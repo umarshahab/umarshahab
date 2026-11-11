@@ -1,4 +1,3 @@
-```markdown
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--                 UMAR SHAHAB | PROFILE                  -->
 <!-- ═══════════════════════════════════════════════════════ -->
@@ -38,26 +37,31 @@ I enjoy working across different areas of technology, from developing web applic
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=django,flask,supabase,postgres" />
 </p>
 
 ### AI, Machine Learning & Creative Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=sklearn,blender" />
 </p>
 
 ### Development Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </p>
@@ -70,7 +74,7 @@ Here are some projects I've been working on:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Portal PEMDI Dumai
 
@@ -81,7 +85,7 @@ A React-based public portal and evaluation interface focused on presenting gover
 [Explore Repository →](https://github.com/umarshahab/Portal-SPBE-)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 SITUAH
 
@@ -94,7 +98,7 @@ A regional data management and analytics platform focused on data processing, vi
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 ReviewGuard
 
@@ -105,7 +109,7 @@ A Natural Language Processing project for classifying marketplace reviews into f
 [Browse My Repositories →](https://github.com/umarshahab?tab=repositories)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 3D Historical Animation
 
@@ -156,4 +160,3 @@ I'm always open to learning, collaboration, and interesting development projects
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2563EB,100:7F00FF&height=120&section=footer"/>
 
 </div>
-```
