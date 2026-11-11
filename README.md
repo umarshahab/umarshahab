@@ -26,7 +26,7 @@ I enjoy working across different areas of technology, from developing web applic
 - 🎓 Informatics Engineering Student
 - 💻 Interested in Web Development and Backend Engineering
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
-- 🎨 Interested in UI/UX Design and Multimedia
+- 🎨 Interested in Design and Multimedia
 - 🌱 Always learning, building, and improving
 - 📍 Indonesia
 
