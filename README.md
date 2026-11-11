@@ -56,7 +56,7 @@ Technologies and tools I work with and explore:
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,php" />
 </p>
 
 ### ⚙️ Backend Development & Database
