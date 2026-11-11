@@ -4,63 +4,85 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:2563EB,100:00D4FF&height=220&section=header&text=Umar%20Shahab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20%7C%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descAlignY=60&descSize=14"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00D4FF&height=230&section=header&text=UMAR%20SHAHAB&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20CREATIVE%20TECHNOLOGIST&descAlignY=60&descSize=14"/>
 
-### Hey there! I'm Umar Shahab 👋
+# Hey, I'm Umar Shahab! 👋
 
-**Building digital solutions through code, data, and creativity.**
+### Informatics Engineering Student | Developer | Tech Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-umarshahab-181717?style=for-the-badge&logo=github)](https://github.com/umarshahab)
-[![Profile Views](https://komarev.com/ghpvc/?username=umarshahab&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS)](https://github.com/umarshahab)
+*Building ideas into digital experiences through code, data, and creativity.*
+
+<p>
+  <a href="https://github.com/umarshahab">
+    <img src="https://img.shields.io/badge/GitHub-umarshahab-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=umarshahab&style=for-the-badge&color=6A11CB&label=PROFILE+VIEWS"/>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm an **Informatics Engineering student at Politeknik Caltex Riau**, passionate about building useful digital products and exploring how technology can solve real-world problems.
+I'm an **Informatics Engineering student at Politeknik Caltex Riau**, interested in developing technology-driven solutions and exploring different areas of software development.
 
-I enjoy working across different areas of technology, from developing web applications and backend systems to experimenting with Artificial Intelligence and Machine Learning.
+My interests span across web development, backend engineering, artificial intelligence, machine learning, natural language processing, and creative multimedia.
 
-- 🎓 Informatics Engineering Student
-- 💻 Interested in Web Development and Backend Engineering
+I enjoy experimenting with new technologies, building practical projects, and continuously improving my development skills.
+
+- 🎓 Informatics Engineering Student at Politeknik Caltex Riau
+- 🌐 Interested in Web Development and Backend Engineering
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
-- 🎨 Interested in Design and Multimedia
-- 🌱 Always learning, building, and improving
+- 📱 Exploring Mobile Development with Kotlin
+- 🎨 Interested in UI/UX Design and Multimedia
+- 🌱 Always learning, building, and experimenting
 - 📍 Indonesia
 
-> "Turning ideas into meaningful digital experiences."
+> "Code with purpose, create with curiosity, and keep building."
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚡ Tech Stack & Technologies
 
-### Programming Languages
+Technologies and tools I work with and explore:
+
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,kotlin,html,css" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend Development & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,supabase,postgres" />
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel,supabase,postgres" />
 </p>
 
-### AI, Machine Learning & Creative Tools
+### 🤖 Artificial Intelligence, Machine Learning & NLP
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,blender" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
 </p>
 
-### Development Tools
+<p>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=ffffff"/>
+</p>
+
+### 📱 Mobile & Creative Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,blender" />
+</p>
+
+### 🧰 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
@@ -68,9 +90,9 @@ I enjoy working across different areas of technology, from developing web applic
 
 ---
 
-## 💡 Featured Projects
+## 🚀 Featured Projects
 
-Here are some projects I've been working on:
+Some projects I've worked on and explored:
 
 <table>
 <tr>
@@ -78,11 +100,13 @@ Here are some projects I've been working on:
 
 ### 🌐 Portal PEMDI Dumai
 
-A React-based public portal and evaluation interface focused on presenting government digital transformation information.
+A modern React-based portal and evaluation interface designed to present digital government transformation information.
 
-**Tech:** React · JavaScript · Tailwind CSS
+**Technologies**
 
-[Explore Repository →](https://github.com/umarshahab/Portal-SPBE-)
+React · JavaScript · Tailwind CSS
+
+[**View Repository →**](https://github.com/umarshahab/Portal-SPBE-)
 
 </td>
 <td width="50%" valign="top">
@@ -91,22 +115,27 @@ A React-based public portal and evaluation interface focused on presenting gover
 
 A regional data management and analytics platform focused on data processing, visualization, statistical analysis, and predictive insights.
 
-**Tech:** Python · Django · REST API · Supabase
+**Technologies**
 
-[Browse My Repositories →](https://github.com/umarshahab?tab=repositories)
+Python · Django · REST API · Supabase
+
+[**Explore Repositories →**](https://github.com/umarshahab?tab=repositories)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 ReviewGuard
 
-A Natural Language Processing project for classifying marketplace reviews into fake and original categories using Machine Learning.
+An NLP-based marketplace review classification project that identifies fake and original reviews using machine learning techniques.
 
-**Tech:** Python · Flask · TF-IDF · Logistic Regression
+**Technologies**
 
-[Browse My Repositories →](https://github.com/umarshahab?tab=repositories)
+Python · Flask · TF-IDF · Logistic Regression
+
+[**Explore Repositories →**](https://github.com/umarshahab?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +144,9 @@ A Natural Language Processing project for classifying marketplace reviews into f
 
 An academic multimedia project exploring the diplomatic relationship between the Siak Sultanate and the Netherlands through 3D animation.
 
-**Tools:** Blender · CapCut · Audacity
+**Tools**
+
+Blender · CapCut · Audacity
 
 </td>
 </tr>
@@ -127,36 +158,78 @@ An academic multimedia project exploring the diplomatic relationship between the
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=umarshahab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Umar's GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarshahab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarshahab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarshahab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=umarshahab&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=umarshahab&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Exploring
 
-- Building modern and responsive web applications.
-- Developing backend services and REST APIs.
-- Exploring Machine Learning and Natural Language Processing.
-- Improving software architecture and development practices.
-- Combining technology with creative multimedia experiences.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web & Backend
+- Modern React applications
+- REST API development
+- Backend architecture
+- Laravel and Django
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+- Machine Learning
+- Natural Language Processing
+- Text classification
+- Data analysis and visualization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+- Kotlin
+- Android development
+- Mobile application concepts
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Creative Technology
+- UI/UX exploration
+- 3D animation
+- Multimedia development
+- Creative digital experiences
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always open to learning, collaboration, and interesting development projects.
+I'm always interested in exploring new technologies, exchanging ideas, collaborating on projects, and learning from other developers.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/umarshahab)
+<a href="https://github.com/umarshahab">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
+</a>
 
-**Thanks for visiting my profile!**
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2563EB,100:7F00FF&height=120&section=footer"/>
+**Thanks for stopping by! Let's build something awesome. 🚀**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:2575FC,100:6A11CB&height=130&section=footer"/>
 
 </div>
