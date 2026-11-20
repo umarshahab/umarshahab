@@ -1,6 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 UMAR SHAHAB | PROFILE                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- UMAR SHAHAB | GITHUB PROFILE -->
 
 <div align="center">
 
@@ -23,6 +21,8 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
 I'm an **Informatics Engineering student at Politeknik Caltex Riau**, interested in developing technology-driven solutions and exploring different areas of software development.
@@ -31,44 +31,54 @@ My interests span across web development, backend engineering, artificial intell
 
 I enjoy experimenting with new technologies, building practical projects, and continuously improving my development skills.
 
-- 🎓 Informatics Engineering Student at Politeknik Caltex Riau
-- 🌐 Interested in Web Development and Backend Engineering
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
-- 📱 Exploring Mobile Development with Kotlin
-- 🎨 Interested in UI/UX Design and Multimedia
-- 🌱 Always learning, building, and experimenting
-- 📍 Indonesia
+🎓 Informatics Engineering Student at Politeknik Caltex Riau
+
+🌐 Interested in Web Development and Backend Engineering
+
+🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
+
+📱 Exploring Mobile Development with Kotlin
+
+🎨 Interested in UI/UX Design and Multimedia
+
+🌱 Always learning, building, and experimenting
+
+📍 Indonesia
 
 > "Code with purpose, create with curiosity, and keep building."
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ⚡ Tech Stack & Technologies
 
-Technologies and tools I work with and explore:
+*Technologies and tools I work with and explore.*
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,kotlin,html,css,php,c#" />
+  <img src="https://skillicons.dev/icons?i=python,js,kotlin,html,css,php,cs"/>
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 </p>
 
 ### ⚙️ Backend Development & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,laravel,supabase,postgres" />
+  <img src="https://skillicons.dev/icons?i=django,flask,laravel,supabase,postgres"/>
 </p>
 
 ### 🤖 Artificial Intelligence, Machine Learning & NLP
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
 </p>
 
 <p>
@@ -79,24 +89,28 @@ Technologies and tools I work with and explore:
 ### 📱 Mobile & Creative Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,blender" />
+  <img src="https://skillicons.dev/icons?i=android,blender"/>
 </p>
 
 ### 🧰 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman"/>
 </p>
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🚀 Featured Projects
 
-Some projects I've worked on and explored:
+*Some projects I've worked on and explored.*
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🌐 Portal PEMDI Dumai
 
@@ -109,7 +123,7 @@ React · JavaScript · Tailwind CSS
 [**View Repository →**](https://github.com/umarshahab/Portal-SPBE-)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📊 SITUAH
 
@@ -125,7 +139,7 @@ Python · Django · REST API · Supabase
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 ReviewGuard
 
@@ -138,7 +152,7 @@ Python · Flask · TF-IDF · Logistic Regression
 [**Explore Repositories →**](https://github.com/umarshahab?tab=repositories)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🎬 3D Historical Animation
 
@@ -152,11 +166,13 @@ Blender · CapCut · Audacity
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
+
+## 📊 GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=umarshahab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 
@@ -170,57 +186,77 @@ Blender · CapCut · Audacity
 
 ---
 
+<div align="center">
+
 ## 🎯 Currently Exploring
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🌐 Web & Backend
-- Modern React applications
-- REST API development
-- Backend architecture
-- Laravel and Django
+
+Modern React applications
+
+REST API development
+
+Backend architecture
+
+Laravel and Django
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🤖 AI & Data
-- Machine Learning
-- Natural Language Processing
-- Text classification
-- Data analysis and visualization
+
+Machine Learning
+
+Natural Language Processing
+
+Text classification
+
+Data analysis and visualization
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 📱 Mobile Development
-- Kotlin
-- Android development
-- Mobile application concepts
+
+Kotlin
+
+Android development
+
+Mobile application concepts
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### 🎨 Creative Technology
-- UI/UX exploration
-- 3D animation
-- Multimedia development
-- Creative digital experiences
+
+UI/UX exploration
+
+3D animation
+
+Multimedia development
+
+Creative digital experiences
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🤝 Let's Connect!
 
 I'm always interested in exploring new technologies, exchanging ideas, collaborating on projects, and learning from other developers.
-
-<div align="center">
 
 <a href="https://github.com/umarshahab">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
