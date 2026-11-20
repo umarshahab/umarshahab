@@ -1,4 +1,6 @@
-<!-- UMAR SHAHAB | GITHUB PROFILE -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                 UMAR SHAHAB | PROFILE                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -21,33 +23,23 @@
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 About Me
 
 I'm an **Informatics Engineering student at Politeknik Caltex Riau**, interested in developing technology-driven solutions and exploring different areas of software development.
 
-My interests span across web development, backend engineering, artificial intelligence, machine learning, natural language processing, and creative multimedia.
+My interests span across web development, backend engineering, artificial intelligence, machine learning, natural language processing, mobile development, and creative multimedia.
 
 I enjoy experimenting with new technologies, building practical projects, and continuously improving my development skills.
 
-🎓 Informatics Engineering Student at Politeknik Caltex Riau
-
-🌐 Interested in Web Development and Backend Engineering
-
-🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
-
-📱 Exploring Mobile Development with Kotlin
-
-🎨 Interested in UI/UX Design and Multimedia
-
-🌱 Always learning, building, and experimenting
-
-📍 Indonesia
+- 🎓 Informatics Engineering Student at Politeknik Caltex Riau
+- 🌐 Interested in Web Development and Backend Engineering
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and NLP
+- 📱 Exploring Mobile Development with Kotlin and Java
+- 🎨 Interested in UI/UX Design and Multimedia
+- 🌱 Always learning, building, and experimenting
+- 📍 Indonesia
 
 > "Code with purpose, create with curiosity, and keep building."
-
-</div>
 
 ---
 
@@ -60,7 +52,7 @@ I enjoy experimenting with new technologies, building practical projects, and co
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,kotlin,html,css,php,cs"/>
+  <img src="https://skillicons.dev/icons?i=python,js,java,kotlin,html,css,php,cs"/>
 </p>
 
 ### 🎨 Frontend Development
@@ -89,7 +81,7 @@ I enjoy experimenting with new technologies, building practical projects, and co
 ### 📱 Mobile & Creative Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=android,blender"/>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,blender"/>
 </p>
 
 ### 🧰 Development Tools
@@ -225,7 +217,7 @@ Data analysis and visualization
 
 ### 📱 Mobile Development
 
-Kotlin
+Kotlin and Java
 
 Android development
 
